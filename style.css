@@ -1,0 +1,28 @@
+/*
+Theme Name: Theme Template
+Author: Jay
+Theme URI: http://www.jayvues.ga
+Description: Just a Sample theme creation in WP
+Version: 1.0
+Tags: just for new
+*/
+
+body {
+    text-align: left;
+}
+
+#ttr_sidebar {
+    border-left: 1px solid black;
+}
+
+#ttr_footer {
+    width: 100%;
+    border-top: 1px #a2a2a2 solid;
+    text-align: center;
+}
+
+.title {
+    font-size: 11pt;
+    font-family: verdana;
+    font-weight: bold;
+}
